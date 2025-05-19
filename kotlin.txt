@@ -1,1 +1,2 @@
-nombre: antonio
+nombre: Antonio
+correo: antoniomarichal06@gmail.com
